@@ -1,0 +1,430 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="91" height="1081" viewBox="0 0 91 1081">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#dda520}.cls-4{filter:url(#Retângulo_4-19)}.cls-5{filter:url(#Retângulo_3-19)}.cls-6{filter:url(#Retângulo_4-18)}.cls-7{filter:url(#Retângulo_3-18)}.cls-8{filter:url(#Retângulo_4-17)}.cls-9{filter:url(#Retângulo_3-17)}.cls-10{filter:url(#Retângulo_4-16)}.cls-11{filter:url(#Retângulo_3-16)}.cls-12{filter:url(#Retângulo_4-15)}.cls-13{filter:url(#Retângulo_3-15)}.cls-14{filter:url(#Retângulo_4-14)}.cls-15{filter:url(#Retângulo_3-14)}.cls-16{filter:url(#Retângulo_4-13)}.cls-17{filter:url(#Retângulo_3-13)}.cls-18{filter:url(#Retângulo_4-12)}.cls-19{filter:url(#Retângulo_3-12)}.cls-20{filter:url(#Retângulo_4-11)}.cls-21{filter:url(#Retângulo_3-11)}.cls-22{filter:url(#Retângulo_4-10)}.cls-23{filter:url(#Retângulo_3-10)}.cls-24{filter:url(#Retângulo_4-9)}.cls-25{filter:url(#Retângulo_3-9)}.cls-26{filter:url(#Retângulo_4-8)}.cls-27{filter:url(#Retângulo_3-8)}.cls-28{filter:url(#Retângulo_4-7)}.cls-29{filter:url(#Retângulo_3-7)}.cls-30{filter:url(#Retângulo_4-6)}.cls-31{filter:url(#Retângulo_3-6)}.cls-32{filter:url(#Retângulo_4-5)}.cls-33{filter:url(#Retângulo_3-5)}.cls-34{filter:url(#Retângulo_4-4)}.cls-35{filter:url(#Retângulo_3-4)}.cls-36{filter:url(#Retângulo_4-3)}.cls-37{filter:url(#Retângulo_3-3)}.cls-38{filter:url(#Retângulo_4-2)}.cls-39{filter:url(#Retângulo_3-2)}.cls-40{filter:url(#Retângulo_4)}.cls-41{filter:url(#Retângulo_3)}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h91v1081H0z" class="cls-1"/>
+        </clipPath>
+        <filter id="Retângulo_3" width="91" height="22" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4" width="91" height="22" x="0" y="16" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-2" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-2" width="91" height="22" x="0" y="58" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-3" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-2" width="91" height="22" x="0" y="74" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-4" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-4" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-3" width="91" height="22" x="0" y="116" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-5" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-5" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-3" width="91" height="22" x="0" y="132" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-6" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-6" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-4" width="91" height="22" x="0" y="174" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-7" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-7" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-4" width="91" height="22" x="0" y="190" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-8" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-8" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-5" width="91" height="22" x="0" y="232" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-9" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-9" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-5" width="91" height="22" x="0" y="248" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-10" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-10" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-6" width="91" height="22" x="0" y="290" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-11" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-11" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-6" width="91" height="22" x="0" y="306" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-12" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-12" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-7" width="91" height="22" x="0" y="348" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-13" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-13" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-7" width="91" height="22" x="0" y="364" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-14" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-14" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-8" width="91" height="22" x="0" y="406" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-15" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-15" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-8" width="91" height="22" x="0" y="422" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-16" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-16" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-9" width="91" height="22" x="0" y="464" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-17" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-17" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-9" width="91" height="22" x="0" y="480" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-18" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-18" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-10" width="91" height="22" x="0" y="522" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-19" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-19" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-10" width="91" height="22" x="0" y="538" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-20" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-20" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-11" width="91" height="22" x="0" y="580" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-21" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-21" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-11" width="91" height="22" x="0" y="596" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-22" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-22" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-12" width="91" height="22" x="0" y="638" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-23" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-23" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-12" width="91" height="22" x="0" y="654" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-24" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-24" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-13" width="91" height="22" x="0" y="696" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-25" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-25" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-13" width="91" height="22" x="0" y="712" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-26" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-26" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-14" width="91" height="22" x="0" y="754" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-27" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-27" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-14" width="91" height="22" x="0" y="770" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-28" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-28" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-15" width="91" height="22" x="0" y="812" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-29" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-29" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-15" width="91" height="22" x="0" y="828" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-30" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-30" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-16" width="91" height="22" x="0" y="870" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-31" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-31" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-16" width="91" height="22" x="0" y="886" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-32" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-32" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-17" width="91" height="22" x="0" y="928" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-33" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-33" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-17" width="91" height="22" x="0" y="944" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-34" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-34" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-18" width="91" height="22" x="0" y="986" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-35" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-35" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-18" width="91" height="22" x="0" y="1002" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-36" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-36" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_3-19" width="91" height="22" x="0" y="1044" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-37" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-37" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Retângulo_4-19" width="91" height="22" x="0" y="1060" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur-38" stdDeviation="3"/>
+            <feFlood flood-color="#b48400"/>
+            <feComposite in2="blur-38" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Repetição_de_grade_1" class="cls-2" data-name="Repetição de grade 1">
+        <g id="Grupo_1" data-name="Grupo 1">
+            <g class="cls-41">
+                <path id="Retângulo_3-20" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 6)"/>
+            </g>
+            <g class="cls-40">
+                <path id="Retângulo_4-20" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 22)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-2" data-name="Grupo 1">
+            <g class="cls-39">
+                <path id="Retângulo_3-21" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 64)"/>
+            </g>
+            <g class="cls-38">
+                <path id="Retângulo_4-21" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 80)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-3" data-name="Grupo 1">
+            <g class="cls-37">
+                <path id="Retângulo_3-22" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 122)"/>
+            </g>
+            <g class="cls-36">
+                <path id="Retângulo_4-22" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 138)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-4" data-name="Grupo 1">
+            <g class="cls-35">
+                <path id="Retângulo_3-23" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 180)"/>
+            </g>
+            <g class="cls-34">
+                <path id="Retângulo_4-23" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 196)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-5" data-name="Grupo 1">
+            <g class="cls-33">
+                <path id="Retângulo_3-24" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 238)"/>
+            </g>
+            <g class="cls-32">
+                <path id="Retângulo_4-24" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 254)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-6" data-name="Grupo 1">
+            <g class="cls-31">
+                <path id="Retângulo_3-25" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 296)"/>
+            </g>
+            <g class="cls-30">
+                <path id="Retângulo_4-25" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 312)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-7" data-name="Grupo 1">
+            <g class="cls-29">
+                <path id="Retângulo_3-26" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 354)"/>
+            </g>
+            <g class="cls-28">
+                <path id="Retângulo_4-26" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 370)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-8" data-name="Grupo 1">
+            <g class="cls-27">
+                <path id="Retângulo_3-27" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 412)"/>
+            </g>
+            <g class="cls-26">
+                <path id="Retângulo_4-27" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 428)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-9" data-name="Grupo 1">
+            <g class="cls-25">
+                <path id="Retângulo_3-28" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 470)"/>
+            </g>
+            <g class="cls-24">
+                <path id="Retângulo_4-28" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 486)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-10" data-name="Grupo 1">
+            <g class="cls-23">
+                <path id="Retângulo_3-29" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 528)"/>
+            </g>
+            <g class="cls-22">
+                <path id="Retângulo_4-29" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 544)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-11" data-name="Grupo 1">
+            <g class="cls-21">
+                <path id="Retângulo_3-30" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 586)"/>
+            </g>
+            <g class="cls-20">
+                <path id="Retângulo_4-30" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 602)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-12" data-name="Grupo 1">
+            <g class="cls-19">
+                <path id="Retângulo_3-31" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 644)"/>
+            </g>
+            <g class="cls-18">
+                <path id="Retângulo_4-31" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 660)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-13" data-name="Grupo 1">
+            <g class="cls-17">
+                <path id="Retângulo_3-32" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 702)"/>
+            </g>
+            <g class="cls-16">
+                <path id="Retângulo_4-32" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 718)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-14" data-name="Grupo 1">
+            <g class="cls-15">
+                <path id="Retângulo_3-33" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 760)"/>
+            </g>
+            <g class="cls-14">
+                <path id="Retângulo_4-33" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 776)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-15" data-name="Grupo 1">
+            <g class="cls-13">
+                <path id="Retângulo_3-34" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 818)"/>
+            </g>
+            <g class="cls-12">
+                <path id="Retângulo_4-34" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 834)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-16" data-name="Grupo 1">
+            <g class="cls-11">
+                <path id="Retângulo_3-35" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 876)"/>
+            </g>
+            <g class="cls-10">
+                <path id="Retângulo_4-35" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 892)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-17" data-name="Grupo 1">
+            <g class="cls-9">
+                <path id="Retângulo_3-36" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 934)"/>
+            </g>
+            <g class="cls-8">
+                <path id="Retângulo_4-36" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 950)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-18" data-name="Grupo 1">
+            <g class="cls-7">
+                <path id="Retângulo_3-37" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 992)"/>
+            </g>
+            <g class="cls-6">
+                <path id="Retângulo_4-37" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 1008)"/>
+            </g>
+        </g>
+        <g id="Grupo_1-19" data-name="Grupo 1">
+            <g class="cls-5">
+                <path id="Retângulo_3-38" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 3" transform="translate(6 1050)"/>
+            </g>
+            <g class="cls-4">
+                <path id="Retângulo_4-38" d="M0 0h73v4H0z" class="cls-3" data-name="Retângulo 4" transform="translate(6 1066)"/>
+            </g>
+        </g>
+    </g>
+</svg>
