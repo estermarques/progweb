@@ -4,9 +4,6 @@
   "main": "index.js",
   "repository": "https://github.com/estermarques/progweb.git",
   "author": "estermarques <estermarques99@gmail.com>",
-  "license": "MIT"
-}
-
-"scripts": {
+  "license": "MIT",
   "start" : "login.html"
 }
