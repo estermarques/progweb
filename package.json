@@ -5,5 +5,7 @@
   "repository": "https://github.com/estermarques/progweb.git",
   "author": "estermarques <estermarques99@gmail.com>",
   "license": "MIT",
-  "start" : "login.html"
+  "scripts": {
+    "start" : "login.html"
+ }
 }
