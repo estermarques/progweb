@@ -1,0 +1,169 @@
+body{
+    padding:0px;
+    margin:0px;
+    border: 0px;
+    background-color: rgb(11, 165, 157)
+}
+
+.listaTags{
+    display: inline-block;
+    width: 80%;
+    overflow: hidden;
+}
+
+.tamanhoFixo{
+    height:25px;
+}
+
+.titulo{
+    display:inline-block;
+    font-family: Lobster;
+    font-size: 2em;
+    height: 100%;
+    vertical-align: middle;
+    line-height: 8px;
+}
+
+.abaDaSanfona{
+    margin: 0 ;
+    border: 0px;
+    width:100%;
+    border-bottom: 2px;
+    display:block;
+    border-style: solid;
+    border-color:gray;
+}
+
+.tag{
+  display: inline-block;
+  border:2px;
+  background-color: rgb(160, 160, 160);
+  border-color: rgb(160, 160, 160);
+  margin-right:0.5px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  border-style:solid;
+  border-radius: 3px;
+}
+
+.sanfona{
+    float: right;
+    height: 22px;
+    width: 22px;
+    border-radius: 10px;
+}
+
+.menuPrincipal{
+    padding : 0;
+    display: block;
+    border-top: 0px;
+    border-right: 0px;
+    border-left:0px;
+    border-style: solid;
+    height: 50px;
+    border-color: rgb(11,168,157);
+    background-color: rgb(11, 165, 157);
+}
+
+.pagina{
+    display: block;
+    width:100%;
+    height: 100%;
+}
+
+.abaDeTextos{
+    float:left;
+    border-radius: 4px;
+    display: inline-block;
+    width:18%;
+    height: 100%;
+    padding-bottom: 100%;
+    border-style: solid;
+    border-color: rgb(231, 235, 203);
+    background-color:rgb(231, 235, 203)
+}
+
+.Preview{
+    font-size: 0.8em;
+    margin: 0px;
+    border-top:0px;
+    border-right:0px;
+    border-left:0px;
+    border-bottom: 2px;
+    border-color: gray;
+    display: block;
+    border-style:solid;
+    height: 50px;
+}
+
+
+
+.areaDeTexto{
+    display: inline-block;
+    float:right;
+    width:80%;
+    height: 159px;
+    padding-bottom:100%;
+    display: inline-block;
+    border-style:solid;
+    border-radius: 4px;
+    border-color: rgb(231, 235, 203);
+    background-color:rgb(231, 235, 203);
+}
+
+.logo{
+    height:100%;
+    display:inline-block;
+}
+
+.menuSecundario{
+    display:inline-block;
+}
+
+
+.botao{
+    float:right;
+    border: none;
+    outline:none;
+    padding: 5px;
+    background-color: rgb(231, 235, 203)
+}
+.botao:hover {
+    background-color: rgb(215, 219, 185);
+    border: none;
+    outline:none;
+    padding: 5px;
+    }
+    
+.botao:active {
+    border: none;
+    outline:none;
+    padding: 5px;
+    }
+    
+.botao:focus {
+    border: none;
+    outline:none;
+    padding: 5px;
+    }
+
+.texto{
+    width: 99%;
+    height: 300px;
+    height: 1200px;
+    resize: none;
+}
+
+.novaTag{
+    width:50px;
+    margin-right: 0px;
+    border-right: 0px;
+}
+
+.salvarTag{
+    width:20px;
+    margin-left:0px;
+    border-left:0px;
+}
+
+<link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
