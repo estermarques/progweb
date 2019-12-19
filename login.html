@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" type="text/css" href="css/login.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:1999/estiloLogin">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Sempre notas - Login</title>   
@@ -9,11 +9,11 @@
 
 <body>
   <div id="container"></div>
-    <form action=""  class="box">
+    <form method="POST" class="box">
       <input type="text" name='username' placeholder="username"/>
       <input type="password" name='senha' placeholder="senha"/>     
-      <a href="principal.html"><button type="button">Login</button></a>
-      <a href="criarusuario.html"><button type="button">Cadastre-se</button></a>
+      <button formaction="http://localhost:1999/principal">Login</button></a>
+      <button formaction="http://localhost:1999/criar">Cadastre-se</button>
     </form>  
   </div>
 </body>
