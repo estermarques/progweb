@@ -9,6 +9,25 @@ var buttonCriar = document.querySelector('.criarNota')
 var texto = document.querySelector('.texto')
 var buttonSalvar = document.querySelector('.salvar')
 
+//nao terminei
+function fetchData(){
+    setInterval(() => {
+        const json = {
+        id: idDocAbaDireita,
+        texto: document.querySelector('.text').value,
+        tags: document.querySelectorAll('.tag')
+        }
+        
+        fetch('http://localhost:1999/texto/api',
+        {
+            method:'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify(json)
+        }).then((res) => res.json()).then((json) => console.log(json))
+        
+    }, 5000);
+}
+
 function montaListaNotas(){
     jsonTextos.forEach((elem) => {
         let obj = JSON.parse(elem)
